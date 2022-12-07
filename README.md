@@ -38,14 +38,14 @@ Redo will simply do the last step you made once more.
 ```
 
 # Multiple Previews
-![](screenshots/cube.png?raw=true "3x3 Cube")
-![](screenshots/cube10.png?raw=true "10x10 Cube")
+![](Showcase/cube.png?raw=true "3x3 Cube")
+![](Showcase/cube10.png?raw=true "10x10 Cube")
 
 # Settings Previews
-![](screenshots/cubeActions.png?raw=true "Resolve or Shuffle cube")
-![](screenshots/cubeRestart.png?raw=true "Reset, undo, roll back progress")
-![](screenshots/cubeShuffle.png?raw=true "Shuffle the cube between 10 and 50 times")
-![](screenshots/cubeSize.png?raw=true "Cube size between 2x2 and 10x10")
+![](Showcase/cubeActions.png?raw=true "Resolve or Shuffle cube")
+![](Showcase/cubeRestart.png?raw=true "Reset, undo, roll back progress")
+![](Showcase/cubeShuffle.png?raw=true "Shuffle the cube between 10 and 50 times")
+![](Showcase/cubeSize.png?raw=true "Cube size between 2x2 and 10x10")
 
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.<br/>
